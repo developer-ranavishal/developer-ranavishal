@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @developer-ranavishal
+- 👋 Hi, I’m @android developer
 - 👀 I’m passionating about to developing android apps.
-- 🌱 I’m currently doing my btech cse.
+- 🌱 I' have finished my B-Tech(Computer Science).
 - 💞️ I’m looking to collaborate on open source project..
 
 <!---
